@@ -1,3 +1,4 @@
+# Web-Scraping-Selenium
 This project was made to automatically search and download company information from polish public online database https://wyszukiwarkaregon.stat.gov.pl/ based on company NIP number, using python with selenium library.
 
 This project operates on public Central Statistical Office and was made only for learning purposes. Downloaded informations **were not used for any further processing**.
